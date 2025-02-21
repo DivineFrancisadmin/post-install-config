@@ -57,4 +57,16 @@ For managing users and agents in osTicket, I began by configuring Agents, who ha
 Set Up Ticket Management Rules
 <p></p>
 <img width="960" alt="4  SLA's" src="https://github.com/user-attachments/assets/2d512799-bbd1-43e5-ae96-e4a778c50bee" />
+<p>
+<p></p>
+To set up ticket management rules in osTicket, I began by configuring the ticket submission policies. In the Admin Panel → Settings → User Settings, I disabled the option "Unregistered users can create tickets" so users don’t have to register before submitting a ticket. Next, I moved on to setting up Service Level Agreements (SLA) under Admin Panel → Manage → SLA. I established different response times based on urgency: Sev-A required a 1-hour response time (24/7), Sev-B was set to 4 hours (24/7), and Sev-C had an 8-hour response time (Business Hours) to ensure efficient ticket handling.
+</p>
+<br />
+Customize Help Topics for Ticket Submission
+<p></p>
+<img width="954" alt="5  Help Topics" src="https://github.com/user-attachments/assets/6e87bc4a-17d6-400d-a922-31d85b5e6253" />
+<p>
+<p></p
+
+
 
