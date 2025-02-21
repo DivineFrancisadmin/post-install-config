@@ -42,13 +42,13 @@ Configure User Roles and Permissions
 <img width="1032" alt="2  Assigning Roles" src="https://github.com/user-attachments/assets/a8530bac-fe03-47b4-b360-a13e7d93d7b4" />
 </p>
 <p>
-To configure user roles and permissions in osTicket, I started by defining roles to control access levels. In the Admin Panel, I navigated to Agents → Roles and created a role called Supreme Admin to manage system-wide settings. Next, I set up Departments under Agents → Departments, organizing them based on ticket visibility, such as SysAdmins and Networking, ensuring that tickets were assigned to the appropriate teams. Finally, I structured Teams by going to Agents → Teams and grouping agents from different departments, such as an Online Banking team, to streamline ticket management and improve workflow efficiency.</p>
-<br />
+To set up user roles and permissions in osTicket, I first defined access levels by navigating to Admin Panel → Agents → Roles and creating a Supreme Admin role for system-wide management. Then, I organized Departments under Agents → Departments, assigning categories like SysAdmins and Networking to control ticket visibility. Finally, I structured Teams under Agents → Teams, grouping agents from different departments—such as an Online Banking team—to enhance collaboration and improve ticket management efficiency.<br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  User & Agent Management
+  <p></p>
+<img width="955" alt="3  Agent-Jane" src="https://github.com/user-attachments/assets/1abc76fa-c093-4b3c-84fd-f605f44e4e57" />
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
+For managing users and agents in osTicket, I began by configuring Agents, who handle support tickets. In the Admin Panel, I navigated to Agents → Add New, created agent accounts, and assigned them to the appropriate departments, such as Jane in SysAdmins and John in Support. Then, I set up Users, who submit tickets, by going to the Agent Panel → Users → Add New and adding users like Karen and Ken to ensure they could request assistance seamlessly.</p>
 <br />
