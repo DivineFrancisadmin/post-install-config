@@ -66,7 +66,6 @@ Customize Help Topics for Ticket Submission
 <p></p>
 <img width="954" alt="5  Help Topics" src="https://github.com/user-attachments/assets/6e87bc4a-17d6-400d-a922-31d85b5e6253" />
 <p>
-<p></p
 To customize help topics for ticket submission in osTicket, I organized predefined ticket categories to streamline user requests. I navigated to Admin Panel → Manage → Help Topics and set up structured categories to help users select the most relevant option when submitting a ticket.
 First, I added Business Critical Outage for urgent system-wide issues. Then, I created categories for Personal Computer Issues and Equipment Requests to handle technical support and hardware needs. Additionally, I included Password Reset to assist users with login problems and an Other category for miscellaneous requests.
 Setting up these help topics ensures that users can efficiently submit tickets under the correct category, making ticket routing and resolution more effective.
