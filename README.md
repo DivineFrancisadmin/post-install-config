@@ -43,12 +43,18 @@ Configure User Roles and Permissions
 </p>
 <p>
 To set up user roles and permissions in osTicket, I first defined access levels by navigating to Admin Panel → Agents → Roles and creating a Supreme Admin role for system-wide management. Then, I organized Departments under Agents → Departments, assigning categories like SysAdmins and Networking to control ticket visibility. Finally, I structured Teams under Agents → Teams, grouping agents from different departments—such as an Online Banking team—to enhance collaboration and improve ticket management efficiency.<br />
-
+<p></p>
 <p>
+  <br />
   User & Agent Management
   <p></p>
 <img width="955" alt="3  Agent-Jane" src="https://github.com/user-attachments/assets/1abc76fa-c093-4b3c-84fd-f605f44e4e57" />
 </p>
 <p>
-For managing users and agents in osTicket, I began by configuring Agents, who handle support tickets. In the Admin Panel, I navigated to Agents → Add New, created agent accounts, and assigned them to the appropriate departments, such as Jane in SysAdmins and John in Support. Then, I set up Users, who submit tickets, by going to the Agent Panel → Users → Add New and adding users like Karen and Ken to ensure they could request assistance seamlessly.</p>
+For managing users and agents in osTicket, I began by configuring Agents, who handle support tickets. In the Admin Panel, I navigated to Agents → Add New, created agent accounts, and assigned them to the appropriate departments, such as Jane in SysAdmins and John in Support. Then, I set up Users, who submit tickets, by going to the Agent Panel → Users → Add New and adding users like Karen and Ken to ensure they could request assistance seamlessly.
+</p>
 <br />
+Set Up Ticket Management Rules
+<p></p>
+<img width="960" alt="4  SLA's" src="https://github.com/user-attachments/assets/2d512799-bbd1-43e5-ae96-e4a778c50bee" />
+
